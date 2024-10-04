@@ -24,7 +24,7 @@
 
 * Change the `filePath` variable to the location of this file.
 
-**Make sure you have JsonConverter module installed, if you dont you can find a link [here](https://github.com/VBA-tools/VBA-JSON). When in Visual Basic, click Tools, then references and enable Microsoft Script Runtime**
+**Make sure you have JsonConverter module installed, if you dont you can find a link [here](https://github.com/VBA-tools/VBA-JSON). Once installed, return to Visual Basic. Click Tools > References, enable Microsoft Scripting Runtime**
 
 * Close Visual Basic.
 
